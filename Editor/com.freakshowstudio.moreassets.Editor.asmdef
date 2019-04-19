@@ -1,0 +1,16 @@
+{
+    "name": "com.freakshowstudio.moreassets.Editor",
+    "references": [
+        "com.freakshowstudio.moreassets.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
