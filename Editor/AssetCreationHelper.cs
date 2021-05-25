@@ -17,7 +17,7 @@ namespace FreakshowStudio.MoreAssets.Editor
             string assetPathAndName = CreateUniqueAssetPath(
                 path, typeof(T).ToString(), "asset");
 
-            ProjectWindowUtil.CreateAsset(asset, path);
+            ProjectWindowUtil.CreateAsset(asset, assetPathAndName);
         }
 
         public static string GetSelectedPath()
